@@ -1,2 +1,2 @@
 # watchit-js
-A Node.js that monitors, and reacts, to a web page state changes
+A Node.js module that monitors, and reacts, to a web page state changes
