@@ -1,0 +1,26 @@
+{
+  "name": "watchit-js",
+  "version": "0.0.1",
+  "description": "A Node.js module that monitors, and reacts, to a web page state changes",
+  "main": "watchit-js.js",
+  "scripts": {
+    "test": "node watchit-js.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescodedomenico/watchit-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "selenium"
+  ],
+  "author": "Francesco De Domenico",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/francescodedomenico/watchit-js/issues"
+  },
+  "homepage": "https://github.com/francescodedomenico/watchit-js#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.9.2"
+  }
+}
